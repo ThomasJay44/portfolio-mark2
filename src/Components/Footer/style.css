@@ -1,0 +1,6 @@
+.footer {
+    height: 15vh;
+    width: 100vw;
+    color: white;
+    background-color: var(--primary);
+  }
