@@ -2,9 +2,9 @@ import React from "react";
 
 import "./style.css";
 
-export default function Contact() {
+export default function Activities() {
   return (
-    <div className="contact">
+    <div className="activities">
       <h1>magellan</h1>
     </div>
   );
