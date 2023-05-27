@@ -13,7 +13,7 @@ export default function Navigation() {
         <Navbar.Collapse id="responsive-navbar-nav">
           <Nav className="me-auto">
             <Nav.Link as={Link} to="/projects">Projects</Nav.Link>
-            <Nav.Link as={Link} to="/clock">Activites</Nav.Link>
+            <Nav.Link as={Link} to="/activities">Activites</Nav.Link>
             <Nav.Link as={Link} to="/resume">Resume</Nav.Link>
             {/* <NavDropdown title="Projects" id="collasible-nav-dropdown">
               <NavDropdown.Item as={Link} to="/drumkit">Drumkit</NavDropdown.Item>
