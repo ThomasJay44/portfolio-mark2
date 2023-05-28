@@ -4,6 +4,8 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import { Footer, Navigation } from "./Components";
 import { Home, Contact, Projects, Activities, Resume } from "./Pages";
 
+import '@fortawesome/fontawesome-free/css/all.min.css';
+
 
 export default function App() {
 

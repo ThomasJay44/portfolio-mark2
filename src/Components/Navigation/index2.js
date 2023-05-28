@@ -5,6 +5,7 @@ import NavDropdown from 'react-bootstrap/NavDropdown';
 import { Link } from 'react-router-dom';
 import "./style.css";
 export default function Navigation() {
+  
   return (
     <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark" className="navigation">
       <Container>
@@ -15,15 +16,6 @@ export default function Navigation() {
             <Nav.Link as={Link} to="/projects">Projects</Nav.Link>
             <Nav.Link as={Link} to="/activities">Activites</Nav.Link>
             <Nav.Link as={Link} to="/resume">Resume</Nav.Link>
-            {/* <NavDropdown title="Projects" id="collasible-nav-dropdown">
-              <NavDropdown.Item as={Link} to="/drumkit">Drumkit</NavDropdown.Item>
-              <NavDropdown.Divider />
-              <NavDropdown.Item as={Link} to="/clock">Clock</NavDropdown.Item>
-              <NavDropdown.Divider />
-              <NavDropdown.Item as={Link} to="/camera">Video</NavDropdown.Item>
-              <NavDropdown.Divider />
-              <NavDropdown.Item>more to come!</NavDropdown.Item>
-            </NavDropdown> */}
           </Nav>
           <Nav>
             <Nav.Link as={Link} to="/contact">Contact</Nav.Link>            

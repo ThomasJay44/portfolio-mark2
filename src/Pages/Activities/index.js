@@ -9,13 +9,18 @@ import "./style.css";
 import { Clock } from "./Javascript30";
 
 export default function Activities() {
-  const componentOptions = [{ name: "Clock", component: <Clock /> }];
+  const componentOptions = [{ name: "Clock", component: <Clock /> }
+];
 
   const [selectedComponent, setSelectedComponent] = useState(null);
 
   const handleSelect = (eventKey) => {
     const selected = componentOptions[eventKey];
     setSelectedComponent(selected.component);
+  };
+
+  const handleReset = () => {
+    setSelectedComponent(null);
   };
 
   return (
@@ -43,6 +48,10 @@ export default function Activities() {
                   </NavDropdown.Item>
                 ))}
               </NavDropdown>
+            </Nav>
+
+            <Nav>
+              <Nav.Link as={Link} onClick={handleReset}>Hide Activity</Nav.Link>
             </Nav>
           </Navbar.Collapse>
         </Container>
