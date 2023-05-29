@@ -10,11 +10,11 @@ import "./style.css";
 
 export default function Projects() {
   return (
-    <div>
+    <div className="projects"> 
       <Container>
         <Row>
           <Col>
-            <h4 id="portHeader">Here Are Some Of My Recent Projects</h4>
+            <h3 id="portHeader">Here Are Some Of My Recent Projects</h3>
           </Col>
         </Row>
 
