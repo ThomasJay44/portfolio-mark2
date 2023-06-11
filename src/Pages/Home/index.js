@@ -15,7 +15,7 @@ export default function Home() {
       <div className="header">
         <Container>
           <Row>
-            <h1>Take Your Shoes Off, Stay awhile</h1>
+            <h1>Welcome To My Portofolio!</h1>
           </Row>
         </Container>
       </div>
@@ -27,15 +27,23 @@ export default function Home() {
             </Col>
             <Col xs={12} md={8}>
               <p>
-                Welcome to my portfolio, it is under construction. Welcome to my portfolio, it is under construction. Welcome to my portfolio, it is under construction. Welcome to my portfolio, it is under construction. Welcome to my portfolio, it is under construction. 
+                I am a passionate individual who brings together the best of both worlds: a blue-collar work ethic and a tech-driven mindset. Growing up in a family landscaping business, I learned the value of hard work and dedication from an early age. As my grandfather used to say, "We work 7 days a week in this family." This upbringing instilled in me a strong sense of responsibility and a commitment to delivering high-quality work, even in the face of challenges. 
 
                 <br />
 
-                Welcome to my portfolio, it is under construction. Welcome to my portfolio, it is under construction. Welcome to my portfolio, it is under construction. Welcome to my portfolio, it is under construction. Welcome to my portfolio, it is under construction.
+                Recently, I completed the Rutgers bootcamp and obtained full-stack certification, equipping me with the technical skills needed to excel in the tech industry. However, what truly sets me apart is my ability to thrive under pressure and learn on the job. I have developed a "learn by doing" approach that allows me to quickly adapt and efficiently overcome obstacles in fast-paced environments.
 
                 <br />
 
-                Welcome to my portfolio, it is under construction. Welcome to my portfolio, it is under construction. Welcome to my portfolio, it is under construction. Welcome to my portfolio, it is under construction. Welcome to my portfolio, it is under construction.
+                What excites me the most is the opportunity to merge my blue-collar background with the tech field, championing a new genre of employee that I like to call "blue tech." I believe that by combining the strong work ethic of a blue-collar upbringing with the technical expertise I have gained, I can make a significant impact in the industry.
+
+                <br />
+
+                In addition to my technical skills, I have honed my customer service and interpersonal abilities through my experience in the retail industry. This has enabled me to effectively communicate with customers, understand their needs, and provide exceptional service, even in high-pressure situations.
+
+                <br />
+
+                Overall, I am a dedicated and adaptable individual who is eager to take on new challenges. I am confident in my ability to contribute to an organization's mission and growth by leveraging my unique blend of experience, work ethic, and problem-solving skills.
               </p>
             </Col>
           </Row>
