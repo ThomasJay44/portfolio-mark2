@@ -7,7 +7,7 @@ import Col from "react-bootstrap/Col";
 
 import "./style.css";
 
-import { Bozz } from "../../Assets/Images";
+import { Ireland } from "../../Assets/Images";
 
 export default function Home() {
   return (
@@ -23,9 +23,9 @@ export default function Home() {
         <Container>
           <Row>
             <Col xs={6} md={4}>
-              <img src={Bozz} alt="Bozz" />
+              <img src={Ireland} alt="Bozz" />
             </Col>
-            <Col xs={12} md={8}>
+            <Col xs={12} md={6}>
               <p>
                 I am a passionate individual who brings together the best of both worlds: a blue-collar work ethic and a tech-driven mindset. Growing up in a family landscaping business, I learned the value of hard work and dedication from an early age. As my grandfather used to say, "We work 7 days a week in this family." This upbringing instilled in me a strong sense of responsibility and a commitment to delivering high-quality work, even in the face of challenges. 
 

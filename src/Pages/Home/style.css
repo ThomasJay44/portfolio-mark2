@@ -18,7 +18,7 @@
   }
   
   .content {
-    padding: 20px;
+    padding: 30px;
   }
   
   .content img {
@@ -28,7 +28,7 @@
   }
   
   .content p {
-    margin-top: 20px;
+    margin-top: 0px;
     border: 2px solid #000000; /* Adjust the border properties as needed */
     padding: 10px; /* Add padding if desired */
     border-radius: 5px; /* Add border radius if desired */

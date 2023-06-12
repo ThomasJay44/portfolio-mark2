@@ -1,0 +1,24 @@
+.resume-card {
+    width: 300px;
+    transition: transform 0.3s ease-in-out;
+    border: 1px solid #a10707;
+    border-radius: 5px;
+  }
+  
+  .resume-card:hover {
+    transform: scale(1.05);
+  }
+  
+  .card-image {
+    height: auto;
+    max-width: 100%;
+  }
+
+  .resume-heading {
+    background-color: #f0f0f0;
+    border: 1px solid #a10707;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+  }
