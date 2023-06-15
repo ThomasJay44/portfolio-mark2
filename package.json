@@ -1,7 +1,7 @@
 {
   "name": "portfolio-mark2",
   "version": "0.1.0",
-  "homepage": "https://thomasjay44.github.io/portfolio-mark2/",
+  "homepage": "https://thomasjay44.github.io/portfolio-mark2",
   "dependencies": {
     "@fortawesome/fontawesome-free": "^6.4.0",
     "@fortawesome/free-brands-svg-icons": "^6.4.0",
@@ -16,8 +16,7 @@
     "react-bootstrap": "^2.7.4",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.11.2",
-    "react-scripts": "^5.0.1",
-    "web-vitals": "^2.1.4"
+    "react-scripts": "^5.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
