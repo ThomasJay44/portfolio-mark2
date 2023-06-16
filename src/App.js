@@ -15,6 +15,7 @@ export default function App() {
       <Navigation />
       <Routes>
         <Route exact path="/" element={<Home/>} />
+        <Route path="/portfolio-mark2" element={<Home/>} />
         <Route path ="/contact" element={<Contact/>} />
         <Route path="/activities" element={<Activities/>} />
         <Route path="/projects" element={<Projects/>} />
