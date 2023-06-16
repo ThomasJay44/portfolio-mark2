@@ -1,34 +1,33 @@
 .project-col {
-    padding: 15px;
-  }
-  
-  .project-card {
-    background-color: #f0f0f0;
-    border: 1px solid #a10707;
-    border-radius: 5px;
-    padding: 10px;
-    margin-bottom: 20px;
-  }
+  padding: 15px;
+}
 
-  .project-card h4 {
-    border: 1px solid #a10707;
-    padding: 5px;
-    border-radius: 5px;
-  }
+.project-card {
+  background-color: #f0f0f0;
+  border: 1px solid #a10707;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 20px;
+}
 
-  .projects {
-    background-color: var(--primary);
-    display: flex;
-    width: 100%;
-    min-height: calc(100vh - 70px); /* Subtract the height of the navbar */
-    justify-content: center;
-    align-items: center;
-  }
+.project-card h4 {
+  border: 1px solid #a10707;
+  padding: 5px;
+  border-radius: 5px;
+}
 
-  .projects h3 {
-    background-color: #f0f0f0;
-    border: 1px solid #a10707;
-    border-radius: 5px;
-    padding: 10px;
-    margin-bottom: 20px;
-  }
+.projects {
+  background-color: var(--primary);
+  display: flex;
+  flex-direction: column; /* Add this line */
+  align-items: center; /* Add this line */
+  padding-top: 70px; /* Adjust the value as needed */
+}
+
+.projects h3 {
+  background-color: #f0f0f0;
+  border: 1px solid #a10707;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 20px;
+}

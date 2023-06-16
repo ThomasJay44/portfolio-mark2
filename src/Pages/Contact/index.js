@@ -23,27 +23,8 @@ export default function Contact() {
       <h4>Contact Me:</h4>
 
       <Row className="mb-3">
-        <Col xs={6} sm={3} className="d-flex justify-content-center">
-          <Button
-            variant="twitter"
-            href="https://twitter.com/your_twitter_username"
-            className="flex-fill"
-          >
-            <FontAwesomeIcon icon={faTwitter} size="3x" />
-          </Button>
-        </Col>
 
-        <Col xs={6} sm={3} className="d-flex justify-content-center">
-          <Button
-            variant="instagram"
-            href="https://instagram.com/your_instagram_username"
-            className="flex-fill"
-          >
-            <FontAwesomeIcon icon={faInstagram} size="3x" />
-          </Button>
-        </Col>
-
-        <Col xs={6} sm={3} className="d-flex justify-content-center">
+      <Col xs={6} sm={3} className="d-flex justify-content-center">
           <Button
             variant="github"
             href="https://github.com/ThomasJay44"
@@ -62,6 +43,28 @@ export default function Contact() {
             <FontAwesomeIcon icon={faLinkedin} size="3x" />
           </Button>
         </Col>
+        
+        <Col xs={6} sm={3} className="d-flex justify-content-center">
+          <Button
+            variant="twitter"
+            href="https://twitter.com/thomasjay44"
+            className="flex-fill"
+          >
+            <FontAwesomeIcon icon={faTwitter} size="3x" />
+          </Button>
+        </Col>
+
+        <Col xs={6} sm={3} className="d-flex justify-content-center">
+          <Button
+            variant="instagram"
+            href="https://instagram.com/656workshop"
+            className="flex-fill"
+          >
+            <FontAwesomeIcon icon={faInstagram} size="3x" />
+          </Button>
+        </Col>
+
+
       </Row>
 
       <Row className="mb-3">

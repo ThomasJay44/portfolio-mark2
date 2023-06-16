@@ -11,5 +11,6 @@ import employeedbgif from "../images/employeedbgif.gif"
 import ecomss from "../images/ecomss.JPG"
 import smokingapp from "../images/smokingapp.png"
 import colcomp from "../images/colcomp.JPG"
+import kmeal from "../images/kmeal.JPG"
 
-export { mePhoto, lily, tomates, notetakerapp, employeedbgif, ecomss, smokingapp, colcomp }
+export { mePhoto, lily, tomates, notetakerapp, employeedbgif, ecomss, smokingapp, colcomp, kmeal }

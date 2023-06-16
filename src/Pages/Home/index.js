@@ -27,11 +27,11 @@ export default function Home() {
             </Col>
             <Col xs={12} md={6}>
               <p>
-                I am a passionate individual who brings together the best of both worlds: a blue-collar work ethic and a tech-driven mindset. Growing up in a family landscaping business, I learned the value of hard work and dedication from an early age. As my grandfather used to say, "We work 7 days a week in this family." This upbringing instilled in me a strong sense of responsibility and a commitment to delivering high-quality work, even in the face of challenges. 
+                Hello there, My name is Thomas. I am a passionate individual who brings together the best of both worlds: a blue-collar work ethic and a tech-driven mindset. Growing up in a family landscaping business, I learned the value of hard work and dedication from an early age. As my grandfather used to say, "We work 7 days a week in this family." This upbringing instilled in me a strong sense of responsibility and a commitment to delivering high-quality work, even in the face of challenges. 
 
                 <br />
 
-                Recently, I completed the Rutgers bootcamp and obtained full-stack certification, equipping me with the technical skills needed to excel in the tech industry. However, what truly sets me apart is my ability to thrive under pressure and learn on the job. I have developed a "learn by doing" approach that allows me to quickly adapt and efficiently overcome obstacles in fast-paced environments.
+                Recently, I completed the Rutgers bootcamp and obtained full-stack certification, equipping me with the technical skills needed to excel in the tech industry. However, what truly sets me apart is my ability to thrive under pressure and learn on the job. I have  a "learn by doing" approach that allows me to quickly adapt and efficiently overcome obstacles in fast-paced environments.
 
                 <br />
 

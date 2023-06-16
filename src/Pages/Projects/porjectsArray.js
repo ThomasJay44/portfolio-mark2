@@ -1,5 +1,5 @@
 import {
-    notetakerapp, employeedbgif, ecomss, smokingapp, colcomp,
+    notetakerapp, employeedbgif, ecomss, smokingapp, colcomp, kmeal
 } from './images';
 
 // import notetakerapp from "./images/notetakerapp.JPG"
@@ -9,6 +9,14 @@ import {
 // import colcomp from "./images/colcomp.JPG"
 
 const projects = [
+    {
+        name : "Recipe App",
+        description: "An App that lets you find recipes, save them, create a shopping list, and order groceries",
+        tech: "MongoDB, Express, React, Node, JWT, Bootstrap, Css, GraphQL",
+        repoLink: "https://github.com/michelletrn/k-meal-planner",
+        ss: kmeal,
+        altsrc: "This is a screenshot of......"
+    },
     {
         name : "Quit Smoking App",
         description: "A web-based app to help you track your day to day smoking and scale down to kicking the habit in 90days",
@@ -48,15 +56,8 @@ const projects = [
         repoLink: "https://github.com/ThomasJay44/Ecom-Backend-13",
         ss: ecomss,
         altsrc: "This is a screenshot of......"
-    },
-    {
-        name : "E-Commerce Back End",
-        description: "A back end application to create, delete, update, and view products, categories, and tags.",
-        tech: "Express, MySQL2, Sequilize, DotEnv",
-        repoLink: "https://github.com/ThomasJay44/Ecom-Backend-13",
-        ss: ecomss,
-        altsrc: "This is a screenshot of......"
     }
+
     // {
     //     name : " ",
     //     description: " ",
