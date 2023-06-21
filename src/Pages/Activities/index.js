@@ -6,11 +6,12 @@ import NavDropdown from "react-bootstrap/NavDropdown";
 import { Link } from "react-router-dom";
 import "./style.css";
 
-import { Clock } from "./Javascript30";
+import { Clock, Blur } from "./Javascript30";
 
 export default function Activities() {
   const componentOptions = [
-    { name: "JavaScript 30 Clock", component: <Clock /> }
+    { name: "JavaScript 30 Clock", component: <Clock /> },
+    { name: "JavaScript 30 Blur", component: <Blur />}
   ];
 
   const [selectedComponent, setSelectedComponent] = useState(<Clock />);
