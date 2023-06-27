@@ -1,4 +1,4 @@
 ##
 
 
-https://github.com/ThomasJay44/portfolio-mark2
+https://thomasjay44.github.io/portfolio-mark2/
