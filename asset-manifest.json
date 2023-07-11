@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio-mark2/static/css/main.161908aa.css",
-    "main.js": "/portfolio-mark2/static/js/main.094b5b46.js",
+    "main.js": "/portfolio-mark2/static/js/main.1250feb3.js",
     "static/media/employeedbgif.gif": "/portfolio-mark2/static/media/employeedbgif.b1670f951b210ea80abf.gif",
     "static/media/ireland.JPG": "/portfolio-mark2/static/media/ireland.f8569a4b594f64e25fb5.JPG",
     "static/media/meoncliffs.JPG": "/portfolio-mark2/static/media/meoncliffs.f8569a4b594f64e25fb5.JPG",
@@ -12,23 +12,23 @@
     "static/media/fa-brands-400.ttf": "/portfolio-mark2/static/media/fa-brands-400.150de8eaa454d669c405.ttf",
     "static/media/kmeal.JPG": "/portfolio-mark2/static/media/kmeal.2ad2571e7494ba4a2c8a.JPG",
     "static/media/fa-solid-900.woff2": "/portfolio-mark2/static/media/fa-solid-900.bb975c966c37455a1bc3.woff2",
-    "static/media/Res611.JPG": "/portfolio-mark2/static/media/Res611.ff2326ad417ed3d210a7.JPG",
     "static/media/fa-brands-400.woff2": "/portfolio-mark2/static/media/fa-brands-400.e033a13ee751afc1860c.woff2",
     "static/media/ecomss.JPG": "/portfolio-mark2/static/media/ecomss.03db3f6a37a54cddb5ea.JPG",
     "static/media/colcomp.JPG": "/portfolio-mark2/static/media/colcomp.21cc84a7b8719bf5b4a7.JPG",
-    "static/media/MalyRes611.pdf": "/portfolio-mark2/static/media/MalyRes611.9070304263e9351330f3.pdf",
     "static/media/notetakerapp.JPG": "/portfolio-mark2/static/media/notetakerapp.1d6e367c5321a5bc21b3.JPG",
+    "static/media/res.pdf": "/portfolio-mark2/static/media/res.40ecce2622e652da1c02.pdf",
     "static/media/fa-regular-400.ttf": "/portfolio-mark2/static/media/fa-regular-400.d87474231f4192884802.ttf",
+    "static/media/resmark2.JPG": "/portfolio-mark2/static/media/resmark2.5060ba6b7ba6c40393a6.JPG",
     "static/media/bozz.jpg": "/portfolio-mark2/static/media/bozz.65f04d2fae72bdadb502.jpg",
     "static/media/fa-regular-400.woff2": "/portfolio-mark2/static/media/fa-regular-400.3223dc79c1adee56370b.woff2",
     "static/media/fa-v4compatibility.ttf": "/portfolio-mark2/static/media/fa-v4compatibility.0e3a648be390bd8cb094.ttf",
     "static/media/fa-v4compatibility.woff2": "/portfolio-mark2/static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
     "index.html": "/portfolio-mark2/index.html",
     "main.161908aa.css.map": "/portfolio-mark2/static/css/main.161908aa.css.map",
-    "main.094b5b46.js.map": "/portfolio-mark2/static/js/main.094b5b46.js.map"
+    "main.1250feb3.js.map": "/portfolio-mark2/static/js/main.1250feb3.js.map"
   },
   "entrypoints": [
     "static/css/main.161908aa.css",
-    "static/js/main.094b5b46.js"
+    "static/js/main.1250feb3.js"
   ]
 }
